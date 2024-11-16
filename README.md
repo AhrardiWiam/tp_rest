@@ -72,3 +72,13 @@ Consultez l'interface Swagger pour obtenir une documentation détaillée des poi
 
 ![image](https://github.com/user-attachments/assets/9a88d86a-bf67-4334-90e3-bb7de402371d)
 
+
+## Démonstration avec POSTMAN
+
+
+https://github.com/user-attachments/assets/910d14ef-aacb-48f8-94d7-da2eccf1eda4
+
+
+
+
+
